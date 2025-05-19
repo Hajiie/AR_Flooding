@@ -43,6 +43,7 @@
 ---
 
 ## 폴더 구조
+```
 FloodVisualizationProject/
 ├── Assets/
 │ ├── Scenes/ # Unity 씬
@@ -51,7 +52,7 @@ FloodVisualizationProject/
 ├── Packages/
 ├── ProjectSettings/
 └── README.md
-
+```
 
 ---
 
